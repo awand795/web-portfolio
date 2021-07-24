@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+body {
+    font-family: 'Poppins';
+  }
+
+.imgLogo {
+  height: 4rem;
+  width: 4rem;
+}
+
+.email{
+  text-decoration: none !important;
+  color: black !important;
+}
+
+.icon{
+  font-size: 3rem !important;
+  margin-right: 3rem !important;
+}
