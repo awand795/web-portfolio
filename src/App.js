@@ -36,7 +36,7 @@ const App = () => {
                         <div className="col-10 pt-2 pb-5">
                             <img
                                 src={picture}
-                                className="rounded-circle mx-auto d-block"
+                                className="rounded-circle mx-auto d-block profilePic"
                                 alt="profile pic"
                                 width="200"
                                 height="200"

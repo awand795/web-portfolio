@@ -9,6 +9,12 @@ body {
   width: 4rem;
 }
 
+.profilePic{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
 .email{
   text-decoration: none !important;
   color: black !important;
